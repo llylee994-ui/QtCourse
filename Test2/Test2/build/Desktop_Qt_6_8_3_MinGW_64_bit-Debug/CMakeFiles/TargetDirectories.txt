@@ -1,0 +1,9 @@
+D:/qtproject/project2/samp2_4App/Test2/Test2/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/CMakeFiles/Test2.dir
+D:/qtproject/project2/samp2_4App/Test2/Test2/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/qtproject/project2/samp2_4App/Test2/Test2/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/qtproject/project2/samp2_4App/Test2/Test2/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/qtproject/project2/samp2_4App/Test2/Test2/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/qtproject/project2/samp2_4App/Test2/Test2/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/qtproject/project2/samp2_4App/Test2/Test2/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/qtproject/project2/samp2_4App/Test2/Test2/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/CMakeFiles/Test2_autogen_timestamp_deps.dir
+D:/qtproject/project2/samp2_4App/Test2/Test2/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/CMakeFiles/Test2_autogen.dir
